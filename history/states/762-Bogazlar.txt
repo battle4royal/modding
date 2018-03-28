@@ -1,0 +1,29 @@
+state= {
+	id=762
+	name="STATE_762"
+	manpower = 519364
+	
+	state_category = town
+
+	history= {
+		add_core_of = GRE
+		owner = TUR
+		victory_points = {
+			9833 20
+		}
+		buildings = {
+			9833 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = TUR		
+		set_demilitarized_zone = yes	
+		1936.7.20 = {
+			set_demilitarized_zone = no
+		}
+
+	}
+	provinces={
+		9833 11829 
+	}
+}
